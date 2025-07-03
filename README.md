@@ -8,7 +8,7 @@ A game created for the oculus quest platform. The game will allow you to take on
 
 Inspirations: FTL, Sea of ​​Thieves, Iron Lung, Expanse
 
-Using my own plugin [https://pages.github.com/](https://github.com/kubickilukasz/KubeecPlugin).
+Using my own plugin [KubeecPlugin](https://github.com/kubickilukasz/KubeecPlugin).
 
 ## Plans
 - [x] Level demonstrating the shooting system and enemies 🔫
