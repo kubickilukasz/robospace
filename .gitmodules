@@ -1,0 +1,5 @@
+
+[submodule "Assets/Plugins/Kubeec"]
+	path = Assets/Plugins/Kubeec
+	url = https://github.com/kubickilukasz/KubeecPlugin.git
+	branch = main
