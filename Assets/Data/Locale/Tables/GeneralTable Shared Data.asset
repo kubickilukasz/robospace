@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GeneralTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GeneralTable
+  m_TableCollectionNameGuidString: eaa0a933fb6f6d14a87c4a38658e3eab
+  m_Entries:
+  - m_Id: 97916919808
+    m_Key: test
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24344638889984
+    m_Key: core.socketIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24598780157952
+    m_Key: core.waiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24717323771904
+    m_Key: core.error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116367993244917760
+    m_Key: machine.system.hacking.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116373481017745408
+    m_Key: machine.system.hacking.progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116374495988981760
+    m_Key: machine.system.hacking.hacked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117691420002131968
+    m_Key: machine.system.tracking.locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121089736618450944
+    m_Key: terminal.settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121090194376400896
+    m_Key: terminal.debug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121267764740923392
+    m_Key: 'terminal.settings
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121301367344504832
+    m_Key: terminal.resetpos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121391921738719232
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126180367942459392
+    m_Key: menu.program.shootScene.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126400240291323904
+    m_Key: menu.program.simpleShip.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126400536409186304
+    m_Key: menu.program.prologue.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126400738411061248
+    m_Key: menu.program.sandbox.header
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126414114809880576
+    m_Key: terminal.quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126414920225300480
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126416141581459456
+    m_Key: terminal.devkit
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3708363950387626008
+  references:
+    version: 2
+    RefIds:
+    - rid: 3708363950387626008
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1721237288164

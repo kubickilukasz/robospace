@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5a665983d668d48854ff3877c88cf0, type: 3}
+  m_Name: EnemyLoading
+  m_EditorClassIdentifier: 
+  _audioObject: {fileID: 4712422107535698377, guid: 562998f6a51111d4b85f2ca6260d7c18,
+    type: 3}
+  _audioResource: {fileID: 8300000, guid: badae7f7b0482714b9743e71d8fe869f, type: 3}

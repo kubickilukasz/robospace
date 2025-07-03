@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3058ae0e44ee9584c95645751d48aebb, type: 3}
+  m_Name: Robo1FingerPoseThumbIn_Right
+  m_EditorClassIdentifier: 
+  fingerPose:
+    rotations:
+    - {x: 24.715996, y: 37.394005, z: 87.462}
+    - {x: 76.04696, y: 30.51664, z: 1.9649223}
+    - {x: 50.955173, y: 358.61154, z: 359.04678}
+    - {x: -0, y: -0, z: -0}

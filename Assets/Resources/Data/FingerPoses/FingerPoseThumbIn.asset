@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3058ae0e44ee9584c95645751d48aebb, type: 3}
+  m_Name: FingerPoseThumbIn
+  m_EditorClassIdentifier: 
+  fingerPose:
+    rotations:
+    - {x: 334.6773, y: 19.065056, z: 304.6468}
+    - {x: 353.728, y: 279.88443, z: 287.67694}
+    - {x: 3.500028, y: 3.3483489, z: 340.5338}
+    - {x: 3.5000432, y: 3.3483424, z: 324.5618}
+    - {x: 3.5000656, y: 3.348337, z: 337.381}
+    - {x: 3.5000443, y: 3.3483334, z: 353.30334}
